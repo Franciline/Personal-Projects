@@ -3,7 +3,7 @@ import time
 
 
 # ------------------------- SETTINGS --------------------------------
-
+#hello
 
 #colors
 #lgbtq
