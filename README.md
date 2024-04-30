@@ -4,4 +4,6 @@
 In this repertory you will find all of the personal project I have worked on!
 
 ## Projects
-[flags.py]() : A pixel animation of LGBTQ flags, made in python
+### [flags.py](https://github.com/Franciline/Personal-Projects/tree/main/Flags-pixel-animation)
+A pixel animation of LGBTQ flags made in python. Just run the file to see the output. In the terminal ```python flags.py ```
+
