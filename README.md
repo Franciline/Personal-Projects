@@ -1,7 +1,7 @@
 # Personal-Projects
 
 ## Description
-In this repertory you will find all of the personal project I have worked on!
+In this repository you will find all of the personal project I have worked on!
 
 ## Projects
 ### [flags.py](https://github.com/Franciline/Personal-Projects/tree/main/Flags-pixel-animation)
