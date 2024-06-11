@@ -15,3 +15,13 @@ To run the file, you need to have **pygame** and **time** module. You can downlo
 The **time** module is part of the Python Standard Library, so no installation is required. <br/><br/> 
 To see the output, run the file in a IDE or by running the command ```python flags.py ``` in a terminal/command prompt.
 
+### [ToDo List APP](https://github.com/Franciline/Personal-Projects/tree/main/ToDo-List-APP)
+(on coding) <br/>
+Here I build an To Do List APP using PyQt5. <br/>
+Version of python used: **Python 3.11.9** <br/>
+The **PyQt5** module is required, to install it, enter in a terminal or command prompt: <br/>
+```pip install PyQt5```<br/>
+You can find the documentation of the package here: https://pypi.org/project/PyQt5/
+
+
+
