@@ -22,9 +22,14 @@ Version of python used: **Python 3.11.9** <br/>
 The **PyQt5** library is required (5.15.10 version used), to install it, enter in a terminal or command prompt: <br/>
 ```pip install PyQt5```<br/><br/>
 You can find the documentation of the library here: https://pypi.org/project/PyQt5/ <br/><br/>
-I will use virtual environment in the ToDo-List-APP directory. To create it I run: <br/>
-```python -m venv ToDo-List-APP```<br/>
-then ```deactivate``` to deactivate it.
+You can run the program using a **virtual environment**. To create one, enter: <br/>
+```python3 -m venv <name_of_repository> ```<br/>
+```source <name_of_repository>/bin/activate```<br/><br/>
+
+then run this command to install what's required: <br/>
+```pip install -r requirements.txt```<br/>
+
+
 
 
 
